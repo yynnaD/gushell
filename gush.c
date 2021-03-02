@@ -1,5 +1,6 @@
 /* Danny Gletner
  * gush.c
+ * © 2021 Daniel J Gletner
  * 
  * A custom shell for executing commands.
  */
