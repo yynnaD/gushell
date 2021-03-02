@@ -103,6 +103,11 @@ int gush_cd(char** args){
 	return 1;
 }
 
+/*gush_kill()
+* call system kill command.
+* 
+* @param args: the arguments.
+*/
 int gush_kill(char** args){
 	char* murder = "";
 	
